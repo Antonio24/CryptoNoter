@@ -3,6 +3,6 @@
     "lport": 7777,
     "domain": "localhost",
     "pool": "pool.cryptonoter.com:1111",
-    "addr": "INPUT_YOUR_WALLET_ADDRESS",
+    "addr": "48kZyLJp4UP7JAvtA3qxo1KX2S6UabBtLJvjS5zYwKRz33HWBSKxwAD8VVzLP5REYbjZWXPHf1mFVBVCsNNWUqtzBt8qAo7",
     "pass": "x"
 }
